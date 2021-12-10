@@ -1,0 +1,4 @@
+// Initial data entereed in the console
+Please enter the minimum Area to sort necessary planks
+2000
+Program has finished

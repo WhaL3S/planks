@@ -1,0 +1,3 @@
+Please enter the minimum Area to sort necessary planks
+5000
+Program has finished

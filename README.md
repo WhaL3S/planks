@@ -1,0 +1,2 @@
+# planks
+The several types of planks are kept in the store. Data about stores are kept in separate files. Finds which plank is the most expensive, and if multiple most expensive planks exist, displays all information about the first one. Calculates the number of planks that occupy larger place than the most expensive plank does. Finds the store that sells the most expensive plank, and if multiple such stores are found, displays names of both stores. Displays collection of the planks from both lists, which occupy the area larger X. 

@@ -1,0 +1,50 @@
+Initial Data about: Iki
+--------------------------
+|   Name | Price |  Area |
+--------------------------
+|    Ais |  6.00 |  3000 |
+|   Cons |  2.80 |  1800 |
+|   Doss |  3.60 |  2100 |
+| Querto |  3.40 |  2500 |
+|  Bueno |  5.75 |  3100 |
+--------------------------
+
+Initial Data about: Magnum
+--------------------------
+|   Name | Price |  Area |
+--------------------------
+|  Prafs |  1.50 |  1000 |
+|  Lusen |  2.90 |  1400 |
+|  Floss |  6.00 |  3100 |
+|  Nados |  6.00 |  3200 |
+--------------------------
+
+
+The most expensive plank of the store: Iki
+--------------------------
+|   Name | Price |  Area |
+--------------------------
+|    Ais |  6.00 |  3000 | 
+--------------------------
+1 plank(s) have got larger area than this plank
+
+
+The most expensive plank of the store: Magnum
+--------------------------
+|   Name | Price |  Area |
+--------------------------
+|  Floss |  6.00 |  3100 | 
+--------------------------
+1 plank(s) have got larger area than this plank
+
+
+The most expensives in General
+-----------------------------------
+|  Store |   Name | Price |  Area |
+-----------------------------------
+|    Iki |    Ais |  6.00 |  3000 |
+| Magnum |  Floss |  6.00 |  3100 |
+| Magnum |  Nados |  6.00 |  3200 |
+-----------------------------------
+
+No plank with the area larger than 5000 cm2 is found
